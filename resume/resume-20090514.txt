@@ -1,0 +1,90 @@
+Renaud Waldura
+2866 25th Street, San Francisco, CA 94110
+http://renaud.waldura.com
+renaud@waldura.com
+(415) 282-2922
+
+______________________________________________________________________________
+h   i   g   h   l   i   g   h   t   s
+
+* Pragmatic software engineer with 10+ years of experience in all aspects of the software development life cycle.
+* Deep technical skills in OO design & analysis (9 years), Java and JavaEE (8 years), Perl (3 years), SQL databases (6 years), UNIX variants (10+ years), C/C++, JavaScript, PHP.
+* Management skills in team building and mentoring, task scheduling and prioritizing, meeting facilitation.
+
+______________________________________________________________________________
+e   x   p   e   r   i   e   n   c   e
+
+ENGINEERING TEAM LEAD (Programmer/Analyst IV)
+University of California at San Francisco
+Jan 2008 – present
+* Lead and coach five software engineers on organization-wide projects. Successfully completed 3 projects, on time and within budget, with 2 currently active.
+* Architected academic curriculum management system (design patterns, UML). Selected back-end (MySQL, Fedora repository) and front-end components (PHP, CodeIgniter, YUI). Implemented critical code, core classes (Java, PHP5, XSLT).
+* Ported complex Web site to content management system Drupal to facilitate content development and increase performance (3x). Evaluated CMS products, designed system architecture. Delegated programming tasks (Drupal, LAMP).
+* Zeroed downtime and eased system maintenance by designing high-availability solution with hardware and software components (Tomcat, hardware load balancer). Speeded up application release process 5x using SAN.
+* Mentor and motivate team through formal training and application of best practices. Drive adoption of common tools and processes. Revitalize team by hiring 3 new members, and laying off 2 underperformers.
+* Collaborate with Project & Product Managers in writing requirement documents, feature specifications, projects plans, and grant requests.
+* Consistently rated Exceeds all expectations. Granted “Staff Recognition and Development” award for outstanding performance.
+
+SR. SOFTWARE ENGINEER (Programmer/Analyst III)
+University of California at San Francisco
+Oct 2005 – Dec 2007
+* Developed vertical search engine based on open-source IR toolkit Lucene (Java).
+* Delivered completed application on time, within budget, including extra features, no known defects and full documentation (18 month plan, 5-person team).
+* Architected loosely coupled application with Spring framework. Implemented all application features totaling 300 classes, 70KLOC (Java, Lucene, Spring MVC, JSP, taglibs). Programmed 500 unit tests and integration tests (JUnit).
+* Designed and implemented parallel indexing process for 20x increase in performance over large dataset: 107 documents, 6TB (Java threads, Lucene).
+* Produced extensive technical documentation: 80 feature specifications, 30 technical notes, 30 release notes and 15 process documents, totaling 200 pages.
+* Defined, established and promoted a software development process based on the agile methodology Crystal Clear:
+** monthly releases with one-week QA cycles
+** configuration management (documents, source code and issues)
+** automated build and release process with unit tests
+
+SR. SOFTWARE ENGINEER
+Aravo Inc., San Francisco, CA
+Sept 2002 – Sept 2005
+* Senior member of a team of five engineers developing a multi-tiered J2EE application for supplier and catalog management in the procurement chain.
+* Implemented application features end-to-end: Web pages (CSS, JSP), application classes (Struts, Tiles, servlets), business logic (EJB, JMS, WebLogic), O/R mapped entity beans (TopLink,), SQL queries and stored procedures (PL/SQL, Oracle 9i).
+* Refactored build process for 10x speedup and easier maintenance (shell, make, Ant).
+* Conducted code reviews and instigated quality control practices. Designed and implemented an automated Continuous Integration process, including unit tests and integration tests (Ant, JUnit, HttpUnit).
+* Communicated architectural vision and application standards (Wiki, UML).
+* Collaborated with product manager and product strategist to identify business needs, gather requirements and refine product direction.
+* Managed Web & IT operations: 24/7 application uptime, performance monitoring. Defined alert process, scheduled pager duty among team.
+* Refined and automated release process; coordinated new release pushes to production.
+
+SOFTWARE ENGINEER
+Zero G Software, San Francisco, CA
+Jan 2001 – May 2002
+* Member of a team of six engineers developing a multi-tiered J2EE application for crossplatform software updating and remote delivery.
+* Developed MVC Web application with Jakarta Struts (JSP, servlets) and EJB-like business logic layer (session/entity beans, Tomcat).
+* Implemented lightweight AWT/Swing client application communicating over HTTP/HTTPS with XML (JAXP-SAX).
+* Led team in the application of best practices: design patterns, design by contract, J2EE standards, open source software, UML.
+* Pioneered eXtreme Programming: user stories, continuous integration with Ant, JUnit tests, pair programming, simplicity first.
+
+J2EE CONSULTANT
+Ligos Technology, San Francisco, CA
+April 2000 – Dec 2000
+* Advised on development and deployment of Web applications.
+* Developed J2EE applications with JSP, servlets, Java Beans, JDBC.
+* Integrated Web applications with legacy back-end systems (C, C++).
+* Published articles and documentation about open source projects.
+
+WEB DEVELOPER
+Ligos Technology, San Francisco, CA
+Sept 1997 – Sept 1999
+* Designed and developed e-commerce system to sell software products online.
+* Created Web pages for secure ordering, electronic payment and delivery.
+* Programmed back-end system for instant payment and order tracking with relational database (Perl CGI, mod_perl, C++, MySQL, CyberCash).
+
+______________________________________________________________________________
+e   d   u   c   a   t   i   o   n
+
+1996 – Master’s Degree in Software Engineering, Distributed Systems and Applications.
+Graduate Engineering School, University of Nice Sophia Antipolis, France
+
+______________________________________________________________________________
+o   t   h   e   r
+
+* Passionate about technology: actively keep abreast of current trends, practices and methodologies.
+* Actively follow and participate in open source projects: Eclipse, Jakarta, JBoss, FreeBSD, etc.
+* French citizen permanently authorized to work in the US (green card).
+
+$Id: resume-20090514.txt 2450 2009-07-06 05:44:31Z renaud $

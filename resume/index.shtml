@@ -1,0 +1,22 @@
+
+<!--#set var="title" value="R&eacute;sum&eacute;" -->
+<!--#include virtual="/header.shtml" -->
+
+<p>
+<a href="Renaud_Waldura.pdf"> <img src="resume-page1.png"> </a>
+&nbsp;
+<a href="Renaud_Waldura.pdf"> <img src="resume-page2.png"> </a>
+<p>
+My <a href="Renaud_Waldura.pdf">r&eacute;sum&eacute;</a> 
+is available in PDF format (2 pages).
+<p>
+I am always curious to hear about 
+projects touching upon my areas of interest (distributed 
+computing, OO software engineering, etc.). Thank you for
+your interest!
+<p> 
+More information about the projects I've worked on can be found
+in the <a href="/portfolio/">Portfolio</a> section.
+</p>
+
+<!--#include virtual="/footer.shtml" -->

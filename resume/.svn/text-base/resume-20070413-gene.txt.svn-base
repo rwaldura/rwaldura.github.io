@@ -1,0 +1,130 @@
+Renaud Waldura
+
+2866 25th Street
+San Francisco, CA 94110
+(415) 282-2922
+renaud@waldura.com
+
+_____________________________________________________________________________
+o   b   j   e   c   t   i   v   e
+
+Lead a software development team for a life science company (biotech, 
+medical, pharmaceutical).
+
+* Pragmatic software engineer with 9 years of experience in all aspects of 
+  the software development life cycle.
+* Deep programming skills in multiple languages, particularly Java (J2EE, 
+  J2SE) and Perl.
+* Excellent knowledge of OO programming, design and analysis, design 
+  patterns, agile methodologies.
+* Master's degree in computer science, specialized in distributed systems 
+  and applications.
+
+_____________________________________________________________________________
+s    k    i    l    l    s
+
+    Languages  Java (6 years), JavaScript, Perl, PL/SQL, C/C++.
+   Frameworks  J2EE (EJB, servlets, JSP, JDBC), Spring, TopLink, Struts.
+ App. Servers  BEA WebLogic, Tomcat, Oracle 9i, JBoss.
+      Systems  UNIX: Solaris, Linux, *BSD (14 years), Microsoft Windows.
+
+_____________________________________________________________________________
+e   x   p   e   r   i   e   n   c   e
+
+Principal Engineer (Programmer/Analyst III)
+UCSF Library/CKM, University of California at San Francisco
+October 2005 - present
+
+* Develop vertical search engine based on open-source toolkit Lucene (Java).
+* Design and implement front-end Web application with Spring MVC and 
+  JSP, taglibs. Work with front-end programmers to define UI standards and 
+  facilitate their usage (JSP, AJAX, HTML, CSS).
+* Design and implement parallel back-end indexing process. Work with back-end
+  programmer to define index schema and content management (MySQL and 
+  PostgreSQL databases).
+* Optimize performance for large dataset: 10M documents, 3TB total.
+* Work with product manager to identify requirements, create user interface.
+* Write feature specifications, release notes and technical documentation.
+* Define, document and evangelize a software development process based on
+  the agile methodology Crystal Clear:
+  - monthly releases with one-week QA cycles
+  - configuration management (documents, source code and issues)
+  - automated build and release process with unit tests
+
+Senior Software Engineer
+Aravo Inc., San Francisco, CA
+September 2002 - September 2005
+
+* Senior member of a team of five engineers developing a multi-tiered J2EE 
+  application for supplier/catalog management in the procurement chain.
+* Developed application features end-to-end: Web application with Struts
+  and Tiles (JSP, servlets), EJB business logic layer (session beans, JMS, 
+  WebLogic) and O/R mapped entity beans (TopLink, Oracle 9i database).
+* Implemented normalized database schema, wrote SQL queries and stored 
+  procedures (PL/SQL, Oracle 9i).
+* Drew UML diagrams to document software designs and architecture.
+* Worked closely with product manager and product strategist to identify 
+  business needs, gather requirements and refine product direction. 
+* Communicated with team around architectural vision and defined 
+  application standards. Documented standards (Wiki) and encouraged their 
+  usage.
+* Designed and implemented automated build/test process, including unit 
+  tests and high-level integrity tests (Ant, JUnit, HttpUnit).
+* Managed Web & IT operations: 24/7 application uptime, performance 
+  monitoring. Defined alert process, scheduled pager duty among team.
+* Refined and automated release process, coordinated new release pushes to 
+  production environment.
+
+Software Engineer
+Zero G Software, San Francisco, CA
+January 2001 - May 2002
+
+* Member of a team of six engineers developing a multi-tiered J2EE 
+  application for cross-platform software updating and remote delivery.
+* Developed Web application with Jakarta Struts (JSP, servlets) and EJB-like
+  business logic layer (session/entity beans, Tomcat).
+* Developed lightweight AWT/Swing secure client application communicating 
+  over HTTP/HTTPS with XML (JAXP-SAX).
+* Led team in the application of best practices: design patterns, design by 
+  contract, J2EE standards, open source software, UML.
+* Implemented eXtreme Programming: user stories, continuous integration 
+  with Ant, JUnit tests, pair programming, simplicity first.
+
+J2EE Consultant
+Ligos Technology, San Francisco, CA
+April 2000 - December 2000
+
+* Advised on development and deployment of Web applications.
+* Developed J2EE applications with JSP, servlets, Java Beans, JDBC.
+* Integrated applications with legacy back-end systems (C, C++).
+* Published articles and documentation about open source projects.
+
+Web Developer
+Ligos Technology, San Francisco, CA
+September 1997 - September 1999
+
+* Designed and developed e-commerce system to sell software products.
+* Created Web pages for secure ordering, online payment and delivery.
+* Programmed back-end system for instant payment and order tracking with 
+  relational database (Perl, mod_perl, C++, MySQL, CyberCash).
+
+_____________________________________________________________________________
+e   d   u   c   a   t   i   o   n
+
+1996 - Master's Degree in Software Engineering: Distributed Systems and 
+Applications. University of Nice-Sophia Antipolis, France.
+
+Master's Thesis: High-volume financial market analysis with mobile software 
+agents. Java implementation for Global Concept Finances, 1996.
+
+1993 - Bachelor's Degree, Mathematics Major (France)
+
+_____________________________________________________________________________
+m    i    s    c
+
+* Strong team player, also capable of working independently.
+* Passionate about computing: actively keep abreast of current technologies,
+  practices and methodologies.
+* Actively follow and participate in open source projects: Eclipse, Jakarta, 
+  JBoss, FreeBSD, etc.
+* French citizen, permanently authorized to work in the US (green card).

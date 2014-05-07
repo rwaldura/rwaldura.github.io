@@ -1,0 +1,142 @@
+Renaud Waldura
+
+2866 25th Street
+San Francisco, CA 94110
+(415) 282-2922
+
+renaud@waldura.com
+http://renaud.waldura.com
+
+
+______________________________________________________________________________
+o   b   j   e   c   t   i   v   e
+
+Lead a software development team for a life science company
+(biotech, medical, pharmaceutical).
+
+* Pragmatic software engineer with 9 years of experience in all aspects of 
+  the software development life cycle.
+* Deep development skills in multiple languages, particularly Java (J2EE, 
+  J2SE), C/C++ and Perl.
+* Excellent knowledge of OO design and analysis, design patterns, agile 
+  methodologies, UML.
+* Master’s degree in computer science, specialized in distributed systems 
+  and applications.
+
+
+______________________________________________________________________________
+s    k    i    l    l    s
+
+    Languages  Java (5 years), JavaScript, Perl, PL/SQL, C/C++, Ada, 
+               Unix shells, XSL
+   Frameworks  J2EE (EJB, servlets, JSP, JDBC), TopLink, Struts,
+               XML (SAX, DOM)
+ App. Servers  BEA WebLogic Server & WebLogic Integration (WLI),
+               Oracle 9i, JBoss, Tomcat
+      Systems  Unix (Solaris, Linux, *BSD, AIX, HP-UX), Microsoft Windows     
+   Networking  TCP/IP stack: HTTP, SMTP, TCP, etc.
+
+
+______________________________________________________________________________
+e   x   p   e   r   i   e   n   c   e
+
+Senior Software Engineer    
+(Company name withheld), San Francisco, CA
+September 2002 - present    
+
+* Senior member of a team of five engineers developing a multi-tiered 
+  J2EE application for supplier/catalog management in the procurement chain.    
+* Work closely with product manager and product strategist to identify
+  business needs, gather requirements and refine product direction.
+* Design software solutions, write PRDs and feature specifications.
+* Generate UML diagrams to document software designs and architecture.
+* Communicate with team around architectural vision and define application
+  standards. Document standards (Wiki) and encourage their usage.
+* Research, evaluate and document new technology directions.
+* Develop Web application with Struts & Tiles (JSP, servlets), EJB business 
+  logic layer (session beans, JMS, WebLogic) and O/R mapped entity beans 
+  (TopLink, Oracle 9i database).
+* Implement normalized database schema, write SQL queries and stored 
+   procedures (PL/SQL, Oracle 9i).
+* Design and implement automated build/test process, including unit tests and
+  high-level integrity tests (Ant, JUnit, HttpUnit).
+* Manage Web & IT operations: 24/7 application uptime & performance 
+  monitoring. Define alert process, schedule pager duty among team.
+* Refine and automate release process, coordinate new release pushes to 
+  production environment.
+
+
+Senior Software Engineer    
+Zero G Software, San Francisco, CA    
+January 2001 - May 2002    
+  
+* Senior member of a team of six engineers developing a multi-tiered J2EE
+  application for cross-platform software updating and remote delivery.  
+* Developed Web application with Jakarta Struts (JSP, servlets) and 
+  EJB-like business logic layer (session/entity beans, Tomcat).
+* Developed lightweight AWT/Swing secure client application communicating over
+  HTTP/HTTPS with XML (JAXP-SAX).
+* Led team in the application of best practices: design patterns, design by
+  contract, J2EE standards, open source software, UML.
+* Implemented eXtreme Programming: user stories, continuous integration with 
+  Ant, JUnit tests, pair programming, simplicity first.
+
+
+J2EE Consultant  
+Ligos Technology, San Francisco, CA  
+April 2000 - December 2000
+                     
+* Advised on development and deployment of Web applications.
+* Developed J2EE applications with JSP, servlets, Java Beans, JDBC.
+* Integrated applications with legacy back-end systems (C, C++).
+* Published articles and documentation about open source projects.
+               
+               
+Principal Web Engineer    
+Ligos Technology, San Francisco, CA    
+September 1997 - September 1999    
+
+* Designed and developed e-commerce system to sell software products.
+* Created Web pages for secure ordering, online payment and delivery.
+* Programmed back-end system for instant payment and order tracking with 
+  relational database (Perl, mod_perl, C++, MySQL, CyberCash).
+                     
+
+System Administrator
+Softway International, Inc., San Francisco, CA    
+March 1996 - April 1997    
+
+* Administered company-wide IT resources: desktop and server systems 
+  (Solaris, BSDI and Windows NT, Windows 95/98), corporate data networks 
+  (Ethernet, ISDN, PPP, TCP/IP), and printing resources.
+* Wrote ad-hoc maintenance programs to implement business processes (Perl, 
+  Unix shell); configured Apache server for corporate Web sites.
+
+
+______________________________________________________________________________
+e   d   u   c   a   t   i   o   n
+
+  1996 - Master’s Degree in Software Engineering, Distributed Systems 
+         and Applications
+  University of Nice-Sophia Antipolis, France
+
+  Master’s Thesis: High-volume financial market analysis with
+  mobile software agents
+  Java implementation for Global Concept Finances, 1996
+
+  1993 - Bachelor’s Degree, Mathematics Major (France)
+
+
+______________________________________________________________________________
+m    i    s    c
+
+* Strong team player, also capable of working independently.
+* Passionate about computing: actively keep abreast of current technologies, 
+  practices and methodologies.
+* Actively follow and participate in open source projects: Eclipse, Jakarta, 
+  JBoss, FreeBSD, etc.
+* Principal author of the JNDI Explorer, a plugin for Eclipse.
+* Founder and maintainer of the TopLink Wiki at http://toplink.waldura.com.
+* Professional member of the Association for Computing Machinery since 2000.
+* French citizen, permanently authorized to work in the US (green card 
+  holder).
